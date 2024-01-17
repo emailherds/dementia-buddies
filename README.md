@@ -1,2 +1,2 @@
 # dementia-buddies
-Project from Hack TCNJ 2022 - winner
+Collaborated with partners - project from Hack TCNJ 2022 - winner
